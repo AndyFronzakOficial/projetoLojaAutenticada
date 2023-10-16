@@ -1,0 +1,27 @@
+exemplo de estrutura
+
+meu-site/
+|-- assets/
+|   |-- css/
+|   |   |-- estilo.css
+|   |-- js/
+|   |   |-- script.js
+|   |-- imagens/
+|   |   |-- produto1.jpg
+|   |   |-- produto2.jpg
+|-- páginas/
+|   |-- index.html
+|   |-- produtos.html
+|   |-- produto_detalhes.html
+|   |-- carrinho.html
+|   |-- finalizar_compra.html
+|-- inclui/
+|   |-- cabeçalho.html
+|   |-- rodapé.html
+|-- php/
+|   |-- processar_pedido.php
+|   |-- banco_de_dados.php
+|-- produtos/
+|   |-- lista_de_produtos.csv
+|-- .htaccess
+|-- README.md
